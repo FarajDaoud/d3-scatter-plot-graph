@@ -63,3 +63,36 @@ section {
   width: 50%;
   display: flex;
 }
+
+#title {
+  margin-bottom: 0;
+}
+
+#sub-title {
+  font-weight: 700;
+  font-size: 18px;
+}
+#spgContainer {
+  width: 80%;
+  margin: auto;
+}
+
+#scatterPlotGraph {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+#tooltip {
+  position: absolute;
+  background: lightblue;
+  min-width: 200px;
+  padding: 5px;
+}
+
+#legend {
+  position: absolute;
+  background: lightblue;
+  min-width: 200px;
+  padding: 5px;
+}
+
