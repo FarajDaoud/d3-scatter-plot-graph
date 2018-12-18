@@ -73,7 +73,7 @@ section {
   font-size: 18px;
 }
 #spgContainer {
-  width: 80%;
+  width: 60%;
   margin: auto;
 }
 
@@ -83,13 +83,6 @@ section {
 }
 
 #tooltip {
-  position: absolute;
-  background: lightblue;
-  min-width: 200px;
-  padding: 5px;
-}
-
-#legend {
   position: absolute;
   background: lightblue;
   min-width: 200px;
